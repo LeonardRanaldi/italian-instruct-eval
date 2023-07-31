@@ -4,3 +4,7 @@ This repository contains datasets to evaluate instruction-tuned models such as A
 
 We aim to facilitate simple and convenient benchmarking across multiple tasks and models.
 
+
+You can use the [InstructEval](https://github.com/declare-lab/instruct-eval) suite to evaluate your custom Instruction-Tuned Large Language Model.
+
+
